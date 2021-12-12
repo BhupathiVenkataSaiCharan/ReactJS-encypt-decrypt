@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/ReactJS-encrypt-decrypt/static/js/main.ed2c1b8b.chunk.js",
+    "main.js.map": "/ReactJS-encrypt-decrypt/static/js/main.ed2c1b8b.chunk.js.map",
+    "runtime-main.js": "/ReactJS-encrypt-decrypt/static/js/runtime-main.c31e6dad.js",
+    "runtime-main.js.map": "/ReactJS-encrypt-decrypt/static/js/runtime-main.c31e6dad.js.map",
+    "static/js/2.945639d0.chunk.js": "/ReactJS-encrypt-decrypt/static/js/2.945639d0.chunk.js",
+    "static/js/2.945639d0.chunk.js.map": "/ReactJS-encrypt-decrypt/static/js/2.945639d0.chunk.js.map",
+    "index.html": "/ReactJS-encrypt-decrypt/index.html",
+    "static/js/2.945639d0.chunk.js.LICENSE.txt": "/ReactJS-encrypt-decrypt/static/js/2.945639d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c31e6dad.js",
+    "static/js/2.945639d0.chunk.js",
+    "static/js/main.ed2c1b8b.chunk.js"
+  ]
+}
